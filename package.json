@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://nileshkk9.github.io/portfolio",
+  "homepage": "https://nileshkk9.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
